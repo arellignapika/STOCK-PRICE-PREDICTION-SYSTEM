@@ -1,7 +1,7 @@
 # STOCK-PRICE-PREDICTION-SYSTEM
 
 
-This project involves building a Long Short-Term Memory (LSTM) neural network to predict stock prices using historical data. The model is implemented using TensorFlow's Keras API.
+This project involves building a Long Short-Term Memory (LSTM) neural network to predict stocks closing prices using historical data. The model is implemented using TensorFlow's Keras API.
 
 ## Overview
 
