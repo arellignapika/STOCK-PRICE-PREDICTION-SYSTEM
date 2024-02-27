@@ -10,6 +10,8 @@ This project involves building a Long Short-Term Memory (LSTM) neural network to
 - LSTM (Long Short-Term Memory) architecture is used for sequence modeling.
 
 ## Results
+![TCS_PREDICTION_GRAPH](./images/tcs_graph.png "Example Image")
+
 
 ### Model Performance
 
