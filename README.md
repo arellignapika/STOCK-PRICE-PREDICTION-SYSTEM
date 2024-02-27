@@ -11,6 +11,9 @@ This project involves building a Long Short-Term Memory (LSTM) neural network to
 
 ## Results
 ![TCS_PREDICTION_GRAPH](./images/tcs_graph.png "Example Image")
+![TCS_PREDICTION_values](./images/tcs_prediction.png "Example Image")
+![CIPLA_PREDICTION_GRAPH](./images/ciplagraph.png "Example Image")
+![CIPLA_PREDICTION_VALUES](./images/cipla_prediction.png "Example Image")
 
 
 ### Model Performance
