@@ -16,5 +16,6 @@ This project involves building a Long Short-Term Memory (LSTM) neural network to
 - The trained LSTM model demonstrates accurate predictions on the TCS stock dataset.
 - The model has been tested on five different datasets, and it consistently provides good predictions.
 
+![TCS](./images/tcs(1).jpg "tcs")
 
 
