@@ -9,6 +9,35 @@ This project involves building a Long Short-Term Memory (LSTM) neural network to
 - The model predicts stock prices based on historical closing prices.
 - LSTM (Long Short-Term Memory) architecture is used for sequence modeling.
 
+## Description
+
+The `LSTM.py` script performs the following steps:
+
+- Loads stock price data from a CSV file.
+- Visualizes the historical closing prices.
+- Applies Min-Max scaling to the price data.
+- Prepares training and test datasets.
+- Defines and trains an LSTM model on the training data.
+- Predicts stock prices on the test dataset.
+- Visualizes the predicted prices alongside actual prices.
+- Calculates and prints the Root Mean Squared Error (RMSE) of the predictions.
+
+## Dependencies
+
+To run this script, you'll need the following Python libraries:
+
+- NumPy
+- pandas
+- Matplotlib
+- scikit-learn
+- TensorFlow
+
+## Installation
+
+Ensure you have Python installed on your system. If you don't have the required libraries, you can install them using pip:
+
+pip install numpy pandas matplotlib scikit-learn tensorflow
+
 ## Results
 - TCS STOCK CLOSING DAYPRICE PREDICTION GRAPH AND PREDICTION PRICE COMPARED TO STOCK MARKET CLOSING DAY PRICE.
 ![TCS_PREDICTION_GRAPH](./images/tcs_graph.png "Example Image")
